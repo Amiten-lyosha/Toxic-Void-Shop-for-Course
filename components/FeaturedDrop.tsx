@@ -1,5 +1,6 @@
+
 import React, { useState, useEffect } from 'react';
-import { Heart, ShoppingBag, Timer } from 'lucide-react';
+import { Heart, ShoppingBag } from 'lucide-react';
 import { activeDrops } from '../data/drops';
 
 const FeaturedDrop: React.FC = () => {

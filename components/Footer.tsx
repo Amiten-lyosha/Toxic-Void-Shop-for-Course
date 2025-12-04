@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { ArrowRight, Instagram, Send, Disc } from 'lucide-react';
+import { ArrowRight, Instagram, Send } from 'lucide-react';
 
 const Footer: React.FC = () => {
   return (
